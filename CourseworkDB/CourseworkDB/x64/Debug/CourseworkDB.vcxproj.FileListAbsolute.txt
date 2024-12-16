@@ -1,0 +1,3 @@
+C:\Users\bnast\source\repos\CourseworkDB\CourseworkDB\x64\Debug\CourseworkDB.vcxproj.AssemblyReference.cache
+C:\Users\bnast\source\repos\CourseworkDB\CourseworkDB\x64\Debug\CourseworkDB.MyForm.resources
+C:\Users\bnast\source\repos\CourseworkDB\CourseworkDB\x64\Debug\CourseworkDB.vcxproj.GenerateResource.cache
